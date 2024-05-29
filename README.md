@@ -42,10 +42,10 @@ SCEWIN is a tool to modify BIOS NVRAM variables including options that are not v
 Это инструмент для изменения переменных NVRAM BIOS, включая параметры, которые не видны через UEFI. Насколько я знаю, он поставляется исключительно с MSI Center. Этот репозиторий был создан для предоставления готовых двоичных файлов без установки вредоносного ПО MSI, так что вам не придется этого делать
 
 ### USAGE
-Run the Export.bat script to export NVRAM setting values to nvram.txt
-Run the Import.bat script to write the configuration in nvram.txt to NVRAM
-Запустите скрипт Export.bat, чтобы экспортировать значения настроек NVRAM в nvram.txt
-Запустите скрипт Import.bat, чтобы записать конфигурацию в nvram.txt в NVRAM
+* Run the Export.bat script to export NVRAM setting values to nvram.txt
+* Run the Import.bat script to write the configuration in nvram.txt to NVRAM
+* Запустите скрипт Export.bat, чтобы экспортировать значения настроек NVRAM в nvram.txt
+* Запустите скрипт Import.bat, чтобы записать конфигурацию в nvram.txt в NVRAM
 
 # MouseTester
 Forms a curve by which you can view the accuracy of the mouse
